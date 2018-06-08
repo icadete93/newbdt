@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90bd2afe-7506-4de9-8583-f694e6f88f8c" name="Default" comment="" />
+    <list default="true" id="90bd2afe-7506-4de9-8583-f694e6f88f8c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file leaf-file-name="index-sp-layout1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="535" column="72" lean-forward="true" selection-start-line="535" selection-start-column="72" selection-end-line="535" selection-end-column="72" />
+            <state relative-caret-position="40">
+              <caret line="120" column="88" selection-start-line="120" selection-start-column="88" selection-end-line="120" selection-end-column="88" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#134#141#1" expanded="true" />
@@ -38,6 +40,9 @@
       <find>services</find>
       <find>depertment</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528382381394</updated>
-      <workItem from="1528382389999" duration="4230000" />
+      <workItem from="1528382389999" duration="4785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4230000" />
+    <option name="totallyTimeSpent" value="4785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -128,7 +133,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -152,8 +157,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="535" column="72" lean-forward="true" selection-start-line="535" selection-start-column="72" selection-end-line="535" selection-end-column="72" />
+        <state relative-caret-position="40">
+          <caret line="120" column="88" selection-start-line="120" selection-start-column="88" selection-end-line="120" selection-end-column="88" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#134#141#1" expanded="true" />

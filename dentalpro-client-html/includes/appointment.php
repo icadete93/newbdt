@@ -8,10 +8,10 @@ $mail = new PHPMailer();
 
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'just55.justhost.com';  // Specify main and backup SMTP servers
+$mail->Host = 'email-smtp.us-west-2.amazonaws.com';                  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'themeforest@ismail-hossain.me';                 // SMTP username
-$mail->Password = 'AsDf12**';                           // SMTP password
+$mail->Username = 'AKIAI6M65RNGYBBKVY6A';    // SMTP username
+$mail->Password = 'ArvGJvoVfXcHZcdJS8DrmPgzPYbfd2WI8CH+ZcrC2oLN';// SMTP password
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
@@ -22,8 +22,8 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
     if( $_POST['form_name'] != '' AND $_POST['form_email'] != '' ) {
 
         $name = $_POST['form_name'];
-        $email = $_POST['form_email'];
-        $message = $_POST['form_message'];
+        $email = 'icadete@hotmail.com';//$_POST['form_email'];
+        $message = "The email " . $_POST['form_email'] . " wrote the following: " . $_POST['form_message'];
 
         $subject = isset($subject) ? $subject : 'New Message | Appointment Form';
         $phone = isset($_POST['form_phone']) ? $_POST['form_phone'] : '';
@@ -32,8 +32,8 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
         $botcheck = $_POST['form_botcheck'];
 
-        $toemail = 'spam.thememascot@gmail.com'; // Your Email Address
-        $toname = 'ThemeMascot'; // Your Name
+        $toemail = 'icadete@hotmail.com'; // Your Email Address
+        $toname = 'Dr. Roberto'; // Your Name
 
         if( $botcheck == '' ) {
 

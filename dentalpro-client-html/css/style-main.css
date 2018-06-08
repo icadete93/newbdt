@@ -1018,10 +1018,13 @@ section > .container-fluid {
   padding-bottom: 10px;
 }
 .menuzord-brand img {
-  max-height: 38px;
+  /*max-height: 38px;*/
+  max-height: 120px;
 }
 @media only screen and (max-width: 767px) {
   .menuzord-brand img {
+    /*max-height: 30px;*/
+
     max-height: 30px;
   }
 }
@@ -8540,4 +8543,25 @@ body.has-fixed-footer .main-content {
   body.has-fixed-footer .main-content {
     margin-bottom: 0 !important;
   }
+}/*
+.leconteiner {
+  display: table;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
 }
+.conteiner {
+  #position: absolute;
+  #top: 50%;
+  display: table-cell;
+  vertical-align: middle;
+}
+.contein {
+  #position: relative;
+  #top: -50%;
+  margin: 0 auto;
+  width: 200px;
+  border: 1px solid orange;
+  padding-bottom: 10px;
+}*/

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90bd2afe-7506-4de9-8583-f694e6f88f8c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html" afterDir="false" />
     </list>
@@ -18,8 +17,8 @@
       <file leaf-file-name="index-sp-layout1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="813" column="10" selection-start-line="813" selection-start-column="10" selection-end-line="813" selection-end-column="10" />
+            <state relative-caret-position="1266">
+              <caret line="962" column="130" selection-start-line="962" selection-start-column="130" selection-end-line="962" selection-end-column="130" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#134#141#1" expanded="true" />
@@ -43,6 +42,7 @@
       <find>depertment</find>
       <find>doctors</find>
       <find>Pricing</find>
+      <find>Request An</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,6 +89,12 @@
               <item name="newbdt" type="462c0819:PsiDirectoryNode" />
               <item name="dentalpro-client-html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="newbdt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newbdt" type="462c0819:PsiDirectoryNode" />
+              <item name="dentalpro-client-html" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -124,16 +130,15 @@
       <option name="presentableId" value="Default" />
       <updated>1528382381394</updated>
       <workItem from="1528382389999" duration="4230000" />
-      <workItem from="1528416414882" duration="1212000" />
+      <workItem from="1528416414882" duration="1878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5442000" />
+    <option name="totallyTimeSpent" value="6108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,8 +182,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dentalpro-client-html/index-sp-layout1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="813" column="10" selection-start-line="813" selection-start-column="10" selection-end-line="813" selection-end-column="10" />
+        <state relative-caret-position="1266">
+          <caret line="962" column="130" selection-start-line="962" selection-start-column="130" selection-end-line="962" selection-end-column="130" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#134#141#1" expanded="true" />
